@@ -1,0 +1,72 @@
+Category,Skills,Repetition
+Data Analyst,SQL      ,202
+Data Scientist,SQL      ,88
+Data Analyst,Python    ,44
+Data Scientist,Python    ,85
+Data Analyst,Excel   ,83
+Data Scientist,Excel    ,13
+Data Analyst,Tableau,66
+Data Scientist,Tableau,25
+Data Analyst,Dashboard,70
+Data Scientist,Dashboard,21
+Data Analyst,Data modeling,60
+Data Scientist,Data modeling,27
+Data Analyst,Data mining,96
+Data Scientist,Data mining,98
+Data Analyst,Data warehouse,90
+Data Scientist,Data warehouse,25
+Data Analyst,Statistical skills,124
+Data Scientist,Statistical skills,156
+Data Analyst,Reporting skills,166
+Data Scientist,Reporting skills,23
+Data Analyst,Visualization,198
+Data Scientist,Visualization,138
+Data Analyst,PowerBI,10
+Data Scientist,PowerBI,3
+Data Analyst,R,37
+Data Scientist,R,21
+Data Analyst,AWS,4
+Data Scientist,AWS,15
+Data Analyst,Looker,5
+Data Scientist,Looker,1
+Data Analyst,Hadoop,4
+Data Scientist,Hadoop,21
+Data Analyst,Spark,10
+Data Scientist,Spark,40
+Data Scientist,BigQuery ,1
+Data Analyst,Data wrangling ,10
+Data Scientist,Data wrangling,19
+Data Analyst,Big Data,8
+Data Scientist,Big Data,6
+Data Scientist,Data mining ,1
+Data Analyst,Machine Learning,4
+Data Scientist,Machine Learning,32
+Data Analyst,NLP,1
+Data Scientist,NLP,12
+Data Analyst,Microsoft SQL,3
+Data Scientist,Microsoft SQL,1
+Data Analyst,Oracle,8
+Data Scientist,Oracle,3
+Data Analyst,Azure,5
+Data Scientist,Azure,7
+Data Analyst,ETL,35
+Data Scientist,ETL,14
+Data Scientist,GCP,5
+Data Scientist,Deep Learning,4
+Data Scientist,Artificial Intelligence,16
+Data Analyst,Data engineering ,46
+Data Scientist,Data engineering ,90
+Data Analyst,Algorithmic skills ,11
+Data Scientist,Algorithmic skills ,80
+Data Analyst,Data integration,49
+Data Scientist,Data integration,16
+Data Analyst,Mathematical skills ,1
+Data Scientist,Mathematical skills ,8
+Data Analyst,Data extraction,30
+Data Scientist,Data extraction,16
+Data Analyst,Data cleaning ,33
+Data Scientist,Data cleaning ,21
+Data Analyst,Data querying ,2
+Data Scientist,Data querying,4
+Data Analyst,NoSQL,3
+Data Scientist,NoSQL  ,5
